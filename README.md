@@ -1,5 +1,7 @@
 # kikbi
 
+You can access the first version of the software here: (qeeqbii)[https://github.com/kikbi-team/qeeqbii-deprecated]
+
 ### Project description
 
 Think about all of the food you have eaten during the last year. Do you know for a fact if it was healthy or good for you? We believe that you could do much better, and we have a solution!
